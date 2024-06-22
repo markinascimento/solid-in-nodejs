@@ -3,7 +3,7 @@
 
 Understanding concepts of solid with NodeJS
 
-## Instalação
+## Instalation
 
 cloning repository
 ```bash
